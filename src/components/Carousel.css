@@ -1,9 +1,11 @@
 .Carousel {
   text-align: center;
 }
+
 .Carousel__list-wrapper {
   overflow: hidden;
 }
+
 .Carousel__list {
   display: flex;
   gap: 10px;
@@ -19,9 +21,11 @@ li {
 .Carousel__buttons {
   text-align: center;
 }
+
 .Carousel__buttons button {
   cursor: pointer;
 }
+
 .Carousel__buttons button.disabled {
   opacity: 0.3;
   cursor: not-allowed;
