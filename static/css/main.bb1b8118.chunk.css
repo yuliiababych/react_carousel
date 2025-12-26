@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:column;justify-content:center;align-items:center}input{text-align:center;width:50px}label{margin:0 10px}.Carousel{text-align:center}.Carousel__list-wrapper{overflow:hidden}.Carousel__list{display:flex;grid-gap:10px;gap:10px;list-style:none;margin:0;padding:0}li{display:inline-block}.Carousel__buttons{text-align:center}.Carousel__buttons button{cursor:pointer}.Carousel__buttons button.disabled{opacity:.3;cursor:not-allowed}
+/*# sourceMappingURL=main.bb1b8118.chunk.css.map */
